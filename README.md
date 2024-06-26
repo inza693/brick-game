@@ -1,2 +1,1 @@
-# brick-game
-subscribe !!!!!!!
+#brick game
